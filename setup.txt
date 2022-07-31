@@ -1,0 +1,3 @@
+unzip the file
+open vs code editor and import the folder inside it
+run the home.html
